@@ -25,17 +25,17 @@
 
 ### How to use
 Install the packages
-```
+```js
 npm install
 ```
 
 Command to run the injection
-```
+```js
 node inject.js
 ```
 
 Command to revert the injection
-```
+```js
 node revert_injection.js
 ```
 
